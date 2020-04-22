@@ -1,0 +1,10 @@
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\RefreshFileEncryption.exe
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\RefreshFileEncryption.deps.json
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\RefreshFileEncryption.runtimeconfig.json
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\RefreshFileEncryption.runtimeconfig.dev.json
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\RefreshFileEncryption.dll
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\RefreshFileEncryption.pdb
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\RefreshFileEncryption.AssemblyInfoInputs.cache
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\RefreshFileEncryption.AssemblyInfo.cs
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\RefreshFileEncryption.dll
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\RefreshFileEncryption.pdb

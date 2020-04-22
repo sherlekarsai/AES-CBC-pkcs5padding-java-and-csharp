@@ -1,0 +1,11 @@
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.exe
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.deps.json
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.json
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.runtimeconfig.dev.json
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.dll
+D:\sai work\EncryptionApp\EncryptionApp\bin\Debug\netcoreapp3.1\EncryptionApp.pdb
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.csprojAssemblyReference.cache
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfoInputs.cache
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.AssemblyInfo.cs
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.dll
+D:\sai work\EncryptionApp\EncryptionApp\obj\Debug\netcoreapp3.1\EncryptionApp.pdb
